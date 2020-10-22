@@ -101,6 +101,7 @@ body {
 
 h1 {
   color: white;
+  text-shadow: 3px 3px 3px black;
   text-align: center;
   padding: 1rem;
   margin: 1rem;
@@ -108,10 +109,12 @@ h1 {
 }
 h2 {
   color: white;
+  text-shadow: 2px 2px 2px black;
   margin: 1rem;
 }
 h3 {
   color: white;
+  text-shadow: 2px 2px 2px black;
   position: relative;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
