@@ -194,3 +194,12 @@ a {
   height: 200px;
   width: auto;
 }
+
+
+#madeBy {
+	text-align: center;
+	padding-bottom: 5px;
+	padding-left: 6px;
+	color: white;
+  font-size: 25pt;
+}
