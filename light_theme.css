@@ -21,8 +21,6 @@ body {
   z-index: -10;
 }
 
-/*Fixed navbar TEST*/
-
 .navigationbar {
   overflow: hidden;
   background-color: rgb(254, 206, 0);
@@ -49,7 +47,6 @@ body {
 }
 
 .navigationbar a:hover {
-  /*background: chartreuse;*/
   background-color: lightskyblue;
 }
 
