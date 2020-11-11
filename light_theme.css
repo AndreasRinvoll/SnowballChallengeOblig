@@ -215,5 +215,23 @@ a {
     width: 373px;
     height: 210px;
     object-position: center;
-  }  
+  }
+  .navigationbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0rem;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 0.25rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 0.25rem;
+    border-right: solid 1px black;
+    padding-top: 40px;
+    font-size: 15pt;
+    transition: all 0.2s ease-in-out;
+  
+  }
 }
