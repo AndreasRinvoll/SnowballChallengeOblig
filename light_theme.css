@@ -238,4 +238,9 @@ a {
   .information h2{
     margin: 0rem;
   }
+
+  .information p{
+    margin: -1rem;
+    margin-bottom: 1rem;
+  }
 }
