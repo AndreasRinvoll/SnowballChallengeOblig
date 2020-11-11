@@ -241,6 +241,6 @@ a {
 
   .information p{
     margin: -1rem;
-    margin-bottom: 1rem;
+    margin-bottom: -5px;
   }
 }
