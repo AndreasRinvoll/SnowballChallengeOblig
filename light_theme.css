@@ -211,4 +211,9 @@ a {
   #bilde{
     height: 100px;
   }
+  #video {
+    width: 373px;
+    height: 210px;
+    object-position: center;
+  }  
 }
