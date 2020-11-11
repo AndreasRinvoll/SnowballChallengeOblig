@@ -232,6 +232,6 @@ a {
     padding-top: 40px;
     font-size: 15pt;
     transition: all 0.2s ease-in-out;
-  
+    font-size: small;
   }
 }
